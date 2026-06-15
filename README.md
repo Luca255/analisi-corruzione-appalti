@@ -1,4 +1,4 @@
-# analisi-corruzione-bandi
+# Analisi del rischio di corruzione negli appalti pubblici italiani
 Questo lavoro, svolto da [@Luca255](https://github.com/Luca255) e [@DakoDC](https://github.com/DakoDC) per il [Laboratorio di statistica con le aziende](https://www.stat.unipd.it/laboratorio-di-statistica-con-le-aziende-tre-i-premi-di-studio-palio) 2025/26 dell'Università di Padova, si propone di provare a costruire un ranking delle stazioni appaltanti italiane basato sul loro possibile rischio di corruzione, sfruttando i dati provenienti dall'ANAC (Autorità Nazionale Anticorruzione) e tramite metodi statistici e di machine learning per l'anomaly detection non supervisionata.
 
 Di seguito sono riportati i procedimenti e le informazioni necessarie per riproducibilità e avviamento del codice. Inoltre, nel file Report.pdf, è presente una descrizione dell'intera analisi svolta.
